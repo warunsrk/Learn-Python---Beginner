@@ -1,1 +1,2 @@
-p
+# To print an output.
+print("Hello World")
